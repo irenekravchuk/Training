@@ -1,2 +1,0 @@
-# Training
-Udemy_Training
